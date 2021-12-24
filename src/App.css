@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+}
+
+.subheader {
+  position: relative;
+  left: 349px !important;
+  top: 31px !important;
+}
+
+.container {
+  padding: 20px !important;
+  border: 1px solid gray;
+  position: relative;
+  margin: 50px !important;
+  background: whitesmoke;
+}
+.select {
+  margin-bottom: 20px !important;
+}
+.select2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5px !important;
+  flex-direction: column;
+  padding-top: 10px !important;
+}
+img {
+  width: 150px;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.box {
+  width: 100% !important;
+  text-align: center !important;
+}
+
+.chart {
+  width: 940px !important;
+  height: 501px !important;
+  position: relative !important;
+  left: 264px !important;
+  align-self: center;
+}
+
+.sectionTwo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text {
+  padding-top: 30px !important;
+}
